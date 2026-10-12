@@ -1,0 +1,7 @@
+pygame>=2.5.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+# PyAutoGUI is optional. This game does NOT need it, because voice commands
+# are sent straight into the game code. Uncomment only if you add your own
+# keyboard-automation experiments:
+# PyAutoGUI>=0.9.54
